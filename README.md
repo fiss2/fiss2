@@ -1,6 +1,6 @@
 # README
 
-## Projet : Détection de Fraudes Bancaires avec Optimisation par Algorithme de Particle Swarm Optimization (PSO)
+## Projet : LE SCHEMA CKKS ET LE MACHINE LEARNING APPLIQUES A LA DETECTION DE LA FRAUDE DE DONNEES A LA CARTE DE CREDIT
 
 ### Description
 Ce projet a pour but de détecter les fraudes bancaires dans des transactions en utilisant une approche de Machine Learning. Nous avons implémenté un modèle de régression logistique avec une optimisation des variables directives via l'algorithme de Particle Swarm Optimization (PSO). Le modèle est formé sur un ensemble de données de cartes de crédit et utilise à la fois des techniques chiffrées et non chiffrées.
